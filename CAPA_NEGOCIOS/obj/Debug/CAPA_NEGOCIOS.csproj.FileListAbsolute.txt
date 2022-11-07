@@ -1,0 +1,11 @@
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_NEGOCIOS\bin\Debug\CAPA_NEGOCIOS.dll
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_NEGOCIOS\bin\Debug\CAPA_NEGOCIOS.pdb
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_NEGOCIOS\bin\Debug\CAPA_DATOS.dll
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_NEGOCIOS\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_NEGOCIOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_NEGOCIOS\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_NEGOCIOS\obj\Debug\CAPA_NEGOCIOS.csproj.AssemblyReference.cache
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_NEGOCIOS\obj\Debug\CAPA_NEGOCIOS.csproj.CoreCompileInputs.cache
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_NEGOCIOS\obj\Debug\CAPA_NEGOCIOS.csproj.CopyComplete
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_NEGOCIOS\obj\Debug\CAPA_NEGOCIOS.dll
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_NEGOCIOS\obj\Debug\CAPA_NEGOCIOS.pdb

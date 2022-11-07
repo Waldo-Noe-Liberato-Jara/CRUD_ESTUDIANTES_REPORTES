@@ -1,0 +1,9 @@
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CopyComplete
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_DATOS\obj\Debug\CAPA_DATOS.dll
+C:\Users\Waldo\source\repos\CRUD_ESTUIDANTES_REPORTES\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb
